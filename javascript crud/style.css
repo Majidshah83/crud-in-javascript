@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    color: white;
+    background-color: #337AB7;
+    text-transform: uppercase;
+    padding: 5px;
+    letter-spacing: 1px;
+    margin-bottom: 46px;
+}
+.btn,.form-control{
+    width: 100%;
+    border-radius: 0px;
+    
+}
+p{
+    color:#337AB7 ;
+}
